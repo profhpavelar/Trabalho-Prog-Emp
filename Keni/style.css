@@ -1,0 +1,61 @@
+body {
+    background-color: #F9D99A;
+}
+
+
+header {
+    text-align: center;
+    background-color: #f9cd9a;
+}
+
+
+header ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+
+header ul li {
+    padding: 10px;
+}
+
+
+main {
+    text-align: center;
+    background-color: #f9cd9a;
+}
+
+
+main ul {
+    list-style: none;
+}
+
+
+
+
+
+.cliente img{
+    height: 300px;
+}
+
+#brothers {
+    width: 700px;
+}
+
+
+main table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#produtos img {
+    width: 200px;
+}
+
+
+footer {
+    text-align: center;
+    background-color: #f9cd9a;
+    margin-top: 1em;
+}
